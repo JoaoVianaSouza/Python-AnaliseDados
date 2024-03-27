@@ -26,5 +26,5 @@ Faça as alterações necessárias no sistema da empresa de acordo com as soluç
 Rode o script novamente para avaliar o impacto das mudanças.
 
 
-##Contribuições
+Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou enviar um pull request com melhorias ou correções.
