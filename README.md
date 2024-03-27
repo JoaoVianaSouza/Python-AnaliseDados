@@ -5,11 +5,11 @@ Este projeto consiste em uma análise de dados sobre cancelamentos em uma empres
 ## Visão Geral do Projeto
 O objetivo deste projeto é analisar os motivos de cancelamentos de clientes em uma empresa e propor possíveis soluções para reduzir esses cancelamentos. O processo de análise envolve:
 
-1- Carregamento e limpeza dos dados
-2 - Análise exploratória dos dados
-3 - Identificação de padrões e tendências nos cancelamentos
-4 - Proposição de soluções para redução dos cancelamentos
-5 - Avaliação do impacto das mudanças propostas
+1- Carregamento e limpeza dos dados <br>
+2 - Análise exploratória dos dados <br>
+3 - Identificação de padrões e tendências nos cancelamentos <br>
+4 - Proposição de soluções para redução dos cancelamentos <br>
+5 - Avaliação do impacto das mudanças propostas <br>
 
 ## Funcionalidades Principais
 - Carregamento e Limpeza dos Dados: Os dados são carregados a partir de um arquivo CSV e são limpos para remover valores vazios e colunas desnecessárias.
